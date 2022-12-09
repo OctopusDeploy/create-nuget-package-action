@@ -9,10 +9,6 @@ This is a GitHub Action to create a NuGet package to push [Octopus Deploy](https
 ```yml
 steps:
   - uses: actions/checkout@v3
-  - name: Install Octopus CLI 🐙
-    uses: OctopusDeploy/install-octopus-cli-action@v1
-    with:
-      version: latest
   - name: Create a NuGet package 🐙
     uses: OctopusDeploy/create-nuget-package-action@v3
     with:
