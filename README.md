@@ -2,7 +2,7 @@
 
 <img alt= "" src="https://github.com/OctopusDeploy/create-nuget-package-action/raw/main/assets/github-actions-octopus.png" />
 
-This is a GitHub Action to create a NuGet package to push [Octopus Deploy](https://octopus.com/).
+This is a GitHub Action to create a NuGet package to push to [Octopus Deploy](https://octopus.com/).
 
 ## Examples
 
