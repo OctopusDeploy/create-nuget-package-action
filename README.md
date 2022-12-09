@@ -6,8 +6,6 @@ This is a GitHub Action to create a NuGet package to push [Octopus Deploy](https
 
 ## Examples
 
-Incorporate the following actions in your workflow to push a package to Octopus Deploy using an API key, a target instance (i.e. `server`), and a project:
-
 ```yml
 steps:
   - uses: actions/checkout@v3
