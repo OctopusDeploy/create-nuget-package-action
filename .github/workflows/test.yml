@@ -39,8 +39,9 @@ jobs:
           package_id: 'TestNuGetPackage'
           version: '2.1.1'
           output_folder: './packaging'
+          base_path: reports
           files: |
-            reports/**/*
+            **/*
           nuspec_description: 'self-test description'
           nuspec_authors: |
             author 1
