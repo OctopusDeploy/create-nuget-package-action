@@ -13,7 +13,7 @@ inputs:
     description: 'Package version.'
     required: true
   output_folder:
-    description: 'Package Id.'
+    description: 'The folder to put the resulting package in, relative to the current working directory; not the base path.'
     required: true
   files:
     description: 'Multi-line list of files to include in the package. Supports globbing.'
@@ -28,8 +28,10 @@ inputs:
     description: 'Release notes to include in the Nuspec file.'
 
 outputs:
-  package_file:
+  package_file_path:
     description: 'The full path to the package file that was created.'
+  package_filename:
+    description: 'The filename, without the path, of the file that was created.'
 
 runs:
   using: 'node16'
