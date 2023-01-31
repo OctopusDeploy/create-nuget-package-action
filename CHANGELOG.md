@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v3.0.0...v3.0.1) (2023-01-31)
+
+
+### Bug Fixes
+
+* updated dependencies ([d7a0a0e](https://github.com/OctopusDeploy/create-nuget-package-action/commit/d7a0a0eee3e8cb0a1ae9aa375f73f0dff53586a0))
+
 ## 3.0.0 (2022-12-13)
 
 
