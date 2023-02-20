@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.2](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v3.0.1...v3.0.2) (2023-02-20)
+
+
+### Bug Fixes
+
+* include dot-files support in glob selection ([e0d587d](https://github.com/OctopusDeploy/create-nuget-package-action/commit/e0d587df47cd6fc9f97cac96f53d578510d17f78))
+
 ## [3.0.1](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v3.0.0...v3.0.1) (2023-01-31)
 
 
