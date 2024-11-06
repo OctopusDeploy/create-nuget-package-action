@@ -55,7 +55,7 @@ jobs:
             this is a multi-line
             release note
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: TestNuGetPackage.2.1.1
           path: ${{ steps.self_test.outputs.package_file_path }}
