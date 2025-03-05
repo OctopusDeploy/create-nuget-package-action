@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.2](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v3.1.1...v3.1.2) (2025-03-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @actions/core to v1.11.1 ([a494268](https://github.com/OctopusDeploy/create-nuget-package-action/commit/a494268d68fcd5ee6cac0e9880e84e0c371754b4))
+* **deps:** update dependency @octopusdeploy/api-client to v3.5.1 ([de9ca94](https://github.com/OctopusDeploy/create-nuget-package-action/commit/de9ca9459dbb96551a6d194d540f44f0ae4cb59d))
+
 ## [3.1.1](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v3.1.0...v3.1.1) (2024-02-04)
 
 
