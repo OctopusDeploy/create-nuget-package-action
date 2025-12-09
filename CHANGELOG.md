@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v3.1.2...v4.0.0) (2025-12-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Migrate to node 24 ([#217](https://github.com/OctopusDeploy/create-nuget-package-action/issues/217))
+
+### Features
+
+* Migrate to node 24 ([#217](https://github.com/OctopusDeploy/create-nuget-package-action/issues/217)) ([6ee8dd3](https://github.com/OctopusDeploy/create-nuget-package-action/commit/6ee8dd3e87b82a1638d3ca53805872000aa6418a))
+
 ## [3.1.2](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v3.1.1...v3.1.2) (2025-03-12)
 
 
