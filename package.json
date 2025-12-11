@@ -10,9 +10,9 @@
   },
   "description": "GitHub Action to create a NuGet package for Octopus Deploy",
   "devDependencies": {
-    "@eslint/eslintrc": "^3.3.3",
-    "@eslint/js": "^9.39.1",
-    "@stylistic/eslint-plugin": "^5.6.1",
+    "@eslint/eslintrc": "3.3.3",
+    "@eslint/js": "9.39.1",
+    "@stylistic/eslint-plugin": "5.6.1",
     "@types/glob": "8.1.0",
     "@types/jest": "29.5.14",
     "@types/json-patch": "0.0.33",
