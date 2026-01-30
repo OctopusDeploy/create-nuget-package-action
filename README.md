@@ -12,6 +12,7 @@ steps:
 
   # create a NuGet package from files in the "reports" folder; create package in "packaging" folder
   - name: Create a NuGet package 🐙
+    id: create_a_nuget_package
     uses: OctopusDeploy/create-nuget-package-action@v4
     with:
       package_id: 'DemoPackage'
