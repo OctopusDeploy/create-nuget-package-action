@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.0.0...v4.1.0) (2026-02-03)
+
+
+### Features
+
+* Add workflow to check for conventional commit format PR title ([#224](https://github.com/OctopusDeploy/create-nuget-package-action/issues/224)) ([7898d62](https://github.com/OctopusDeploy/create-nuget-package-action/commit/7898d6289f13a7e8c4d886efe7e6b93d2bb549c0))
+
 ## [4.0.0](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v3.1.2...v4.0.0) (2025-12-09)
 
 
