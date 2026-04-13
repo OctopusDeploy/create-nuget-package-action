@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.1](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.0...v4.1.1) (2026-04-13)
+
+
+### Bug Fixes
+
+* **deps:** bump axios from 1.13.5 to 1.15.0 ([#271](https://github.com/OctopusDeploy/create-nuget-package-action/issues/271)) ([3a0354b](https://github.com/OctopusDeploy/create-nuget-package-action/commit/3a0354b7d45ef6346f1202649fcf224c572fd595))
+
 ## [4.1.0](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.0.0...v4.1.0) (2026-02-27)
 
 
