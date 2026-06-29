@@ -1,5 +1,14 @@
 # Changelog
 
+## [4.1.2](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.1...v4.1.2) (2026-06-29)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump tmp from 0.2.5 to 0.2.6 ([#286](https://github.com/OctopusDeploy/create-nuget-package-action/issues/286)) ([d6f4e2c](https://github.com/OctopusDeploy/create-nuget-package-action/commit/d6f4e2c7b4bdbb4f0e7aba559088b6ca2bff95a3))
+* **deps:** bump form-data from 4.0.5 to 4.0.6 ([#293](https://github.com/OctopusDeploy/create-nuget-package-action/issues/293)) ([56dacda](https://github.com/OctopusDeploy/create-nuget-package-action/commit/56dacda715c1da9c4f267af74947ab0829fb74a0))
+* patch transitive axios vulnerability via npm audit fix ([#280](https://github.com/OctopusDeploy/create-nuget-package-action/issues/280)) ([d3e150f](https://github.com/OctopusDeploy/create-nuget-package-action/commit/d3e150f7d9219d5ae4636bb2b4faed5049518172))
+
 ## [4.1.1](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.0...v4.1.1) (2026-04-13)
 
 
