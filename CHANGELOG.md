@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.1.2](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.1...v4.1.2) (2026-07-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump js-yaml from 4.1.1 to 4.3.0 ([#302](https://github.com/OctopusDeploy/create-nuget-package-action/issues/302)) ([e810a3b](https://github.com/OctopusDeploy/create-nuget-package-action/commit/e810a3b1f94ebb449cb7bf776542ce38a1642e13))
+* **deps-dev:** bump tmp from 0.2.5 to 0.2.6 ([#286](https://github.com/OctopusDeploy/create-nuget-package-action/issues/286)) ([d6f4e2c](https://github.com/OctopusDeploy/create-nuget-package-action/commit/d6f4e2c7b4bdbb4f0e7aba559088b6ca2bff95a3))
+* **deps:** bump @octopusdeploy/api-client to 3.11.5 ([#301](https://github.com/OctopusDeploy/create-nuget-package-action/issues/301)) ([b6c6db6](https://github.com/OctopusDeploy/create-nuget-package-action/commit/b6c6db6879368538c5d456e712a820af0e8b743f))
+* **deps:** bump @octopusdeploy/api-client to 3.11.6 ([#306](https://github.com/OctopusDeploy/create-nuget-package-action/issues/306)) ([e9c636e](https://github.com/OctopusDeploy/create-nuget-package-action/commit/e9c636e58f880f0ddf978a4ad045b81a6544deff))
+* **deps:** bump form-data from 4.0.5 to 4.0.6 ([#293](https://github.com/OctopusDeploy/create-nuget-package-action/issues/293)) ([56dacda](https://github.com/OctopusDeploy/create-nuget-package-action/commit/56dacda715c1da9c4f267af74947ab0829fb74a0))
+* **deps:** update js-yaml to resolve DoS advisory ([#305](https://github.com/OctopusDeploy/create-nuget-package-action/issues/305)) ([90beca8](https://github.com/OctopusDeploy/create-nuget-package-action/commit/90beca8cef38ad442037db1b7338d27c2fe85312))
+* patch transitive axios vulnerability via npm audit fix ([#280](https://github.com/OctopusDeploy/create-nuget-package-action/issues/280)) ([d3e150f](https://github.com/OctopusDeploy/create-nuget-package-action/commit/d3e150f7d9219d5ae4636bb2b4faed5049518172))
+
 ## [4.1.1](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.0...v4.1.1) (2026-04-13)
 
 
