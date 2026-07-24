@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.1.3](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.2...v4.1.3) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps:** bump brace-expansion to resolve DoS advisory ([#307](https://github.com/OctopusDeploy/create-nuget-package-action/issues/307)) ([d6a5370](https://github.com/OctopusDeploy/create-nuget-package-action/commit/d6a5370436283c8b78445a4f5e2506f96914d612))
+* **deps:** resolve remaining npm audit advisories ([#309](https://github.com/OctopusDeploy/create-nuget-package-action/issues/309)) ([af2c2b9](https://github.com/OctopusDeploy/create-nuget-package-action/commit/af2c2b991424afe3a9f837266dc1850247e91d66))
+
 ## [4.1.2](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.1...v4.1.2) (2026-07-22)
 
 
