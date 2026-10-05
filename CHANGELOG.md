@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.5](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.4...v4.1.5) (2026-10-05)
+
+
+### Bug Fixes
+
+* **deps:** resolve npm audit advisories ([#325](https://github.com/OctopusDeploy/create-nuget-package-action/issues/325)) ([5a8e066](https://github.com/OctopusDeploy/create-nuget-package-action/commit/5a8e066337ccf4adbf3e761e7384c3188ea0f3f4))
+
 ## [4.1.4](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.3...v4.1.4) (2026-09-21)
 
 
