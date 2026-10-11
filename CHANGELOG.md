@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.6](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.5...v4.1.6) (2026-10-11)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump handlebars from 4.7.9 to 4.7.10 ([#327](https://github.com/OctopusDeploy/create-nuget-package-action/issues/327)) ([2164e6b](https://github.com/OctopusDeploy/create-nuget-package-action/commit/2164e6b7cc133aeeaabc8668a7a02990c2763d5d))
+
 ## [4.1.5](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.4...v4.1.5) (2026-10-05)
 
 
