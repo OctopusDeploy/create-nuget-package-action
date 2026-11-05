@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.8](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.7...v4.1.8) (2026-11-05)
+
+
+### Bug Fixes
+
+* **deps:** bump follow-redirects from 1.16.1 to 1.16.2 ([#343](https://github.com/OctopusDeploy/create-nuget-package-action/issues/343)) ([7f40267](https://github.com/OctopusDeploy/create-nuget-package-action/commit/7f402675b90dbfe05897a9c730c33f91ae1ac7a1))
+
 ## [4.1.7](https://github.com/OctopusDeploy/create-nuget-package-action/compare/v4.1.6...v4.1.7) (2026-10-20)
 
 
